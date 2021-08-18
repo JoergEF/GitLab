@@ -50,9 +50,10 @@ Gitlab-Installation mit den offiziellen Docker-Images
       
 5. Anmelden
 
+      ```
       Benutzername: root
-      
       Passwort:     Pa$$w0rd
+      ```
       
 ### alles stoppen
 
