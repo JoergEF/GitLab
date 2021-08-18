@@ -12,7 +12,7 @@ Gitlab-Installation mit den offiziellen Docker-Images
 2. Terminal öffnen
       ```bash
       cd
-      git clone https://github.com/JoergEF/github
+      git clone https://github.com/JoergEF/gitlab
       cd github
       docker-compose up -d
       ```
