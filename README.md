@@ -1,4 +1,4 @@
-# GitLab
+# GitLab Docker mit Docker-Runner
 
 Gitlab-Installation mit den offiziellen Docker-Images
 
